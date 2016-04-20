@@ -4,7 +4,9 @@
 
 body {
     /* Override bootstrap properties */
-    background-color: #374a5d !important;
+    /*background-color: #374a5d !important;*/
+    margin-top: 50px;
+    background-color: grey !important;
     border: 0 !important;
 }
 
